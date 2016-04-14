@@ -8,7 +8,7 @@
 
 本人博客：[http://ursb.me](http://ursb.me)
 
-本书地址：[https://www.gitbook.com/book/airingursb/canvas/details](https://www.gitbook.com/book/airingursb/canvas/details)
+本书地址：[http://airingursb.gitbooks.io/canvas](http://airingursb.gitbooks.io/canvas)
 
 本书github：[https://github.com/airingursb/canvas](https://github.com/airingursb/canvas)
 
